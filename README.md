@@ -1,20 +1,14 @@
-## Research
+## Education
 
-- **MSc thesis, Charles University (in progress):** The term structure of volatility risk premia and market predictability
-- **MSc thesis, Rotterdam School of Management:** Mutual fund performance persistence during economic downturns
-
-## Studying
-
-- **prg.ai minor:** machine learning and optimisation courses across Charles University and CTU
+- **MSc Finance, Data Analytics & AI**, Charles University, with the prg.ai AI minor. Thesis: *The term structure of volatility risk premia and market predictability*
+- **MSc Finance & Investments**, Erasmus University Rotterdam. Thesis: *Mutual fund performance persistence during economic downturns*
 
 ## Projects
 
-| Project | What it shows |
-|---|---|
-| [aex-conditional-volatility](https://github.com/maxmilde/aex-conditional-volatility) | GARCH vs GJR-GARCH-t on AEX returns: significant leverage effect (γ = 0.11, t = 2.97) |
-| [loan-approval-probability-modeling](https://github.com/maxmilde/loan-approval-probability-modeling) | Logit/probit on HMDA mortgage data: Black applicants about 5.8 pp less likely to be approved, conditional on underwriting controls |
-| [sp500-direction-prediction](https://github.com/maxmilde/sp500-direction-prediction) | Logit, LASSO, trees, random forest and GAM tested out of sample against a naive benchmark |
-| [retail-investment-strategy-backtester](https://github.com/maxmilde/retail-investment-strategy-backtester) | Interactive app comparing DCA, value averaging and SMA strategies, with a [live demo](https://huggingface.co/spaces/mildemx/investment-strategy-backtester) |
+- [aex-conditional-volatility](https://github.com/maxmilde/aex-conditional-volatility): GARCH and GJR-GARCH models of AEX volatility
+- [loan-approval-probability-modeling](https://github.com/maxmilde/loan-approval-probability-modeling): logit and probit models of mortgage approval
+- [sp500-direction-prediction](https://github.com/maxmilde/sp500-direction-prediction): machine learning models for next-day S&P 500 direction
+- [retail-investment-strategy-backtester](https://github.com/maxmilde/retail-investment-strategy-backtester): interactive backtesting app for retail investment strategies ([live demo](https://huggingface.co/spaces/mildemx/investment-strategy-backtester))
 
 ## Tools
 
