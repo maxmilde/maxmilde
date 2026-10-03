@@ -1,6 +1,6 @@
 ## Education
 
-- **MSc Finance \& Data Analytics**, Charles University, with the prg.ai AI minor. Thesis: *The term structure of volatility risk premia and market predictability*
+- **MSc Finance & Data Analytics**, Charles University, with the prg.ai AI minor. Thesis: *The term structure of volatility risk premia and market predictability*
 - **MSc Finance & Investments**, Erasmus University Rotterdam. Thesis: *Mutual fund performance persistence during economic downturns*
 
 ## Projects
